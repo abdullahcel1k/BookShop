@@ -28,6 +28,7 @@ namespace BookShop
         /// Kitap ve kasa haraketlerini txt dosyasını kaydedip daha sonra uygulama kapatılsada 
         /// bu bilgilerin unutulmamasını sağlamak 
         /// faydalı link : https://www.w3schools.com/cs/cs_files.php
+        /// 
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
